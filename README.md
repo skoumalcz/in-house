@@ -1,1 +1,1 @@
-<a href="https://app.vocabulary-miner.com/package/prve-spanielske-slova">Test Link</a>
+<a href="https://vocabulary-miner.com/package/12792627559/">Test Link</a>
