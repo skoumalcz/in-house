@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/skoumalcz/kafeity/blob/master/Docs/Images/SKOUMALStudioLogoMedium.png">
+  <img src="Docs/SKOUMALStudioLogoMedium.png">
 </p>
 
 # In-House
