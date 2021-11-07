@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Docs/SKOUMALStudioLogoMedium.png">
+  <img src="Docs/Images/SKOUMALStudioLogoMedium.png">
 </p>
 
 # In-House
